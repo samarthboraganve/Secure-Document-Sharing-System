@@ -333,13 +333,11 @@ The application provides a clean, responsive, and user-friendly interface built 
 
 ## 👨‍💻 Author
 
-**Pranav Kamble**  
-B.E. Computer Science & Engineering  
-Angadi Institute of Technology & Management (AITM)
+**Samarth Boraganve**  
 
 ### Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/pranav-kamble-a29560255/
+- Linkedin : www.linkedin.com/in/samarth-boraganve
 
 ---
 
